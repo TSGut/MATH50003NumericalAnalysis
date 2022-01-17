@@ -4,7 +4,7 @@
 
 **Problem 1.1** Use Taylor's theorem to derive the error for central differences
 $$
-f'(x) ≈ {f(x + h) - f(x - h) \over h}
+f'(x) ≈ {f(x + h) - f(x - h) \over 2h}
 $$
 
 
